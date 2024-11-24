@@ -1,23 +1,51 @@
-.color{
-    background: rgb(236, 182, 89);
-    color: aliceblue;
-   }
-   .table{
-    width: 100%;
-    height: 200px;
+
+.td{
+    color:rgb(225, 170, 87)
+}
+.lich{
+    border-collapse:collapse;
+    width: 67%
+}
+.hehe{ 
+    border-collapse:collapse;
+    width: 70%}
+.lich caption {
+    font-size: 1.5 cm;
+    margin-bottom:1px;
+    font-weight: bold;
+    border:1px 
+ }
+.lich th{
+    background-color:pink;
+    font-weight: bold;
+    border: 2px solid white;
+}
+.lichh{ border: 1px solid black}
+.lichh th, .lichh td {
     text-align: center;
-   }
-   .chunhat{
-    color: rgb(233, 62, 62);
-   }
-   .thu7{
-    color: rgb(118, 158, 219);
-   }
-   table, th, td {
-    border: 1px solid rgb(243, 240, 240);
-    border-collapse: collapse;
-    }
-    td{
-        border: 1px solid rgb(125, 115, 115);
-        border-collapse: collapse;
-    }
+    padding:10px;
+    font-size: 0.5cm;
+    border:1px solid #111111
+}
+.lichh th{
+    background-color:pink;
+    font-weight: bold;}
+.CNhật{
+    color:red;
+}
+.TBảy {
+    color:blue
+}
+.Sun{
+    color:red;
+}
+.Sat{color:blue}
+.bốn{color:red;}
+.ba{color:blue}
+.muoimut{color:red}
+.mừi{color:blue}
+.muoibe{color:blue}
+.muoitem{color:red}
+.hemtu{color:blue}
+.hemlem{color:red}
+.bamut{color:blue}
